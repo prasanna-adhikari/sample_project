@@ -1,7 +1,0 @@
-git commands
-
-git init
-git config --global user.email "abc@gmail.com"
-git config user.email
-git status
-git add
